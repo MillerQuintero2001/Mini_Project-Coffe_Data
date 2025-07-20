@@ -2,7 +2,7 @@
  This repository is about the mini-project assigment from Machine Learning subjetc, 2025-1S
 
 
- ## 🚀 Replicación del Proyecto
+## 🚀 Replicación del Proyecto
 
 ### 📥 Clonar el Repositorio
 
@@ -36,9 +36,11 @@ Una vez activado, instala las dependencias necesarias:
 pip install -r requirements.txt
 ```
 
+### 📂 Estructura
+
 **NOTA:** Los únicos archivos necesarios de tener en el directorio a parte de los scripts y el .venv, son los 3 archivos XLSX de los datos fuente, los demás archivos se generan solos con la ejecución del `main.py`.
 
-- `main.py es un script que ejecuta los scripts en este orden:
+- `main.py` es un script que ejecuta los scripts en este orden:
     * `CC_FT_17.py`: Preprocesa el XLSX de FT 17.
     * `CC_FT_18.py`: Preprocesa el XLSX de FT 18.
     * `CC_FT_21.py`: Preprocesa el XLSX de FT 21.
