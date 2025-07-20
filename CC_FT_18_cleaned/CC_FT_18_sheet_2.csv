@@ -1,0 +1,31 @@
+Fecha,Lote,Origen,Variedad,Proceso,Beneficio,Peso en Verde,Merma,Peso en Tostado,Perfil,Tiempo de tueste,Tostador,Temp. Inicio,Temp. Final
+2022-10-08 00:00:00,1-190722,Jerico,Colombia,Tradicional,Lavado,3.0,15.0,2.55,Filtrado,598,AC,180.0,190.0
+2022-10-08 00:00:00,1-190722,Jerico,Colombia,Tradicional,Lavado,3.0,15.0,2.55,Filtrado,512,AC,180.0,181.0
+20-09-2022,01-300822,Jerico,Colombia,Tradicional,Lavado,3.0,15.0,2.55,Filtrado,598,AC,180.0,190.0
+13-10-2022,01-131022,Jerico,Colombia,Tradicional,Lavado,93.0,16.66666667,77.5,Espresso,700,AC,180.0,195.0
+18-10-2022,01-181022,Jerico,Colombia,Tradicional,Lavado,42.0,14.28571429,36.0,Filtrado,615,LFQ,180.0,192.0
+18-10-2022,05-181022,Jerico,Colombia,Tradicional,Lavado,43.0,16.27906977,36.0,Filtrado,590,LFQ,180.0,191.0
+18-11-22,01-181122,Jerico,Colombia,Tradicional,Lavado,13.2,14.39393939,11.3,Filtrado,550,AC,180.0,192.0
+18-11-22,06-181122,Jerico,Colombia,Tradicional,Lavado,13.2,14.39393939,11.3,Filtrado,545,AC,180.0,191.0
+21-11-22,01-211122,Jerico,Colombia,Tradicional,Lavado,37.8,17.46031746,31.2,Filtrado,565,AC,180.0,192.0
+28-11-22,01-281122,Jerico,Colombia,Tradicional,Lavado,86.0,18.60465116,70.0,Espresso,612,LFQ,180.0,195.0
+28-11-22,01-281122,Jerico,Colombia,Tradicional,Lavado,48.0,16.66666667,40.0,Filtrado,592,LFQ,180.0,192.0
+29-11-22,01-281122,Jerico,Colombia,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,598,LFQ,180.0,191.0
+16-12-22,01-161222,Jerico,Colombia,Tradicional,Lavado,98.0,18.36734694,80.0,Espresso,612,LFQ,180.0,196.0
+16-12-22,01-161222,Jerico,Colombia,Tradicional,Lavado,60.0,16.66666667,50.0,Filtrado,592,LFQ,180.0,191.0
+16-12-22,01-161222,Jerico,Colombia,Tradicional,Lavado,12.0,16.66666667,10.0,Espresso,612,LFQ,180.0,196.0
+2023-11-01 00:00:00,01-110123,Jerico,Colombia,Tradicional,Lavado,8.0,18.75,6.5,Filtrado,542,AC,180.0,191.0
+24-01-23,01-240123,Jerico,Colombia,Tradicional,Lavado,32.2,16.14906832,27.0,Filtrado,535,AC,180.0,191.0
+2023-06-02 00:00:00,01-030223,Jerico,Colombia,Tradicional,Lavado,37.55,16.64447403,31.3,Espresso,567,AC,180.0,195.0
+16-02-23,01-160223,Jerico,Colombia,Tradicional,Lavado,72.0,16.66666667,60.0,Espresso,605,AC,180.0,195.0
+28-03-23,01-280323,Jerico,Colombia,Tradicional,Lavado,48.0,15.3125,40.65,Filtrado,520,AC,180.0,190.0
+29-03-23,01-290323,Jerico,Colombia,Tradicional,Lavado,50.0,17.0,41.5,Espresso,565,AC,180.0,195.0
+2023-10-04 00:00:00,01-100423,Jerico,Colombia,Tradicional,Lavado,84.0,16.66666667,70.0,Filtrado,523,AC,180.0,191.0
+24-04-23,01-240423,Jerico,Colombia,Tradicional,Lavado,77.6,20.10309278,62.0,Filtrado,505,AC,180.0,191.0
+2023-05-04 00:00:00,01-040523,Jerico,Colombia,Tradicional,Lavado,31.6,17.08860759,26.2,Filtrado,524,AC,180.0,190.0
+2023-06-15 00:00:00,01-150623,Jerico,Colombia,Tradicional,Lavado,8.5,5.882352941,8.0,Filtrado,525,AC,180.0,190.0
+27-10-2023,01-271023,Jerico,Colombia,Tradicional,Lavado,15.6,15.70512821,13.15,Filtrado,576,AC,180.0,190.0
+2024-01-10 00:00:00,01-100124,Jerico,Colombia,Tradicional,Lavado,15.0,13.33333333,13.0,Filtrado,572,AC,180.0,190.0
+2024-04-02 00:00:00,01-020424,Jerico,Colombia,Tradicional,Lavado,14.5,16.55172414,12.1,Filtrado,576,AC,180.0,190.0
+2024-06-20 00:00:00,01-200624,Jerico,Colombia,Tradicional,Lavado,10.7,13.55140187,9.25,Filtrado,568,AC,180.0,190.0
+2024-07-18 00:00:00,01-180724,Jerico,Colombia,Tradicional,Lavado,15.65,15.65495208,13.2,Filtrado,570,AC,180.0,190.0

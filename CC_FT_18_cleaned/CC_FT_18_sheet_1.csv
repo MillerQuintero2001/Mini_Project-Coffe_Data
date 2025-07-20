@@ -1,0 +1,500 @@
+Fecha,Lote,Origen,Variedad,Proceso,Beneficio,Peso en Verde,Merma,Peso en Tostado,Perfil,Tiempo de tueste,Tostador,Temp. Inicio,Temp. Final
+22-07-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,9.0,15.0,7.65,Filtrado,481,LFQ,175.0,191.0
+25-07-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Espresso,522,LFQ,175.0,195.0
+25-07-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,9.0,16.44444444,7.52,Filtrado,478,LFQ,175.0,190.0
+28-07-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,11.7,16.32478632,9.79,Filtrado,482,LFQ,175.0,191.0
+28-07-22,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,0.45,24.44444444,0.34,Filtrado,490,LFQ,150.0,186.0
+28-07-22,07-190722,Jerico,Dos mil,Tradicional,Lavado,0.45,24.44444444,0.34,Filtrado,484,LFQ,150.0,184.0
+31-07-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,29.0,15.34482759,24.55,Filtrado,482,LFQ,175.0,192.0
+31-07-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,3.0,16.33333333,2.51,Espresso,526,LFQ,175.0,196.0
+2022-02-08 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,519,LFQ,175.0,195.0
+2022-06-08 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,12.0,15.83333333,10.1,Filtrado,483,LFQ,175.0,191.0
+2022-08-08 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,84.0,16.66666667,70.0,Espresso,525,LFQ,175.0,196.0
+2022-08-08 00:00:00,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,12.0,16.66666667,10.0,Filtrado,481,LFQ,175.0,192.0
+2022-08-08 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,488,LFQ,175.0,193.0
+2022-12-08 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,29.1,16.28865979,24.36,Filtrado,481,LFQ,175.0,192.0
+16-08-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,521,LFQ,175.0,196.0
+17-08-22,10-190722,Jerico,Caturra,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,485,LFQ,175.0,192.0
+18-08-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,522,LFQ,175.0,196.0
+18-08-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,36.0,15.27777778,30.5,Filtrado,485,LFQ,175.0,192.0
+22-08-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Espresso,532,LFQ,175.0,195.0
+29-8-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,86.0,18.60465116,70.0,Espresso,531,LFQ,175.0,195.0
+29-8-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,477,LFQ,175.0,192.0
+29-8-22,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,6.0,16.66666667,5.0,Filtrado,468,LFQ,175.0,191.0
+30-8-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,15.0,16.66666667,12.5,Filtrado,478,LFQ,175.0,192.0
+31-8-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,6.0,17.0,4.98,Espresso,522,LFQ,175.0,195.0
+2022-02-09 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,27.8,16.54676259,23.2,Filtrado,485,LFQ,175.0,192.0
+2022-06-09 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,18.0,15.55555556,15.2,Filtrado,486,LFQ,175.0,191.0
+13-9-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,23.7,16.11814346,19.88,Filtrado,487,LFQ,175.0,192.0
+16-9-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,25.5,18.2745098,20.84,Filtrado,481,LFQ,175.0,192.0
+16-9-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,9.5,21.05263158,7.5,Espresso,519,LFQ,175.0,195.0
+26-9-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,86.0,18.60465116,70.0,Espresso,518,LFQ,175.0,196.0
+26-9-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,492,LFQ,175.0,193.0
+26-9-22,10-190722,Jerico,Dos mil,Tradicional,Lavado,30.0,17.33333333,24.8,Filtrado,490,LFQ,175.0,191.0
+26-9-22,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,6.0,16.66666667,5.0,Filtrado,482,LFQ,175.0,192.0
+29-9-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,484,LFQ,175.0,194.0
+29-9-22,10-190722,Jerico,Dos mil,Tradicional,Lavado,9.0,16.55555556,7.51,Filtrado,485,LFQ,175.0,192.0
+2022-03-10 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,480,LFQ,175.0,191.0
+2022-03-10 00:00:00,10-190722,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,482,LFQ,175.0,192.0
+2022-05-10 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,486,LFQ,175.0,192.0
+2022-05-10 00:00:00,01-190722,Jerico,Dos mil,Tradicional,Lavado,9.6,21.875,7.5,Espresso,531,LFQ,175.0,196.0
+13-10-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,32.0,18.75,26.0,Filtrado,481,LFQ,175.0,192.0
+13-10-22,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,18.0,16.66666667,15.0,Filtrado,496,LFQ,175.0,191.0
+13-10-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,495,LFQ,175192.0,
+13-10-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,3.2,21.875,2.5,Espresso,541,LFQ,175.0,196.0
+15-10-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,482,LFQ,175.0,192.0
+24-10-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,15.0,16.66666667,12.5,Filtrado,482,LFQ,175.0,191.0
+27-10-22,01-190722,Jerico,Dos mil,Tradicional,Lavado,33.0,16.66666667,27.5,Filtrado,490,LFQ,175.0,192.0
+2022-02-11 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,481,LFQ,175.0,192.0
+2022-08-11 00:00:00,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,30.0,16.66666667,25.0,Filtrado,496,LFQ,175.0,191.0
+2022-08-11 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,492,LFQ,175.0,192.0
+2022-08-11 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,98.0,18.36734694,80.0,Espresso,525,LFQ,175.0,195.0
+2022-10-11 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,497,LFQ,175.0,192.0
+2022-10-11 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,7.5,20.0,6.0,Espresso,527,LFQ,175.0,194.0
+2022-11-11 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,495,LFQ,175.0,191.0
+18-11-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,488,LFQ,175.0,192.0
+21-11-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Espresso,494,LFQ,175.0,195.0
+29-11-22,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,42.0,16.66666667,35.0,Filtrado,496,LFQ,175.0,191.0
+2022-04-12 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,33.0,16.66666667,27.5,Filtrado,494,LFQ,175.0,192.0
+2022-04-12 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,3.0,13.33333333,2.6,Filtrado,478,LFQ,170.0,189.0
+2022-04-12 00:00:00,02-241122,Jerico,Dos mil,Natural,Natural,6.0,13.33333333,5.2,Filtrado,481,LFQ,175.0,190.0
+2022-04-12 00:00:00,05-241122,Jerico,Dos mil,Tradicional,Lavado,6.0,13.33333333,5.2,Filtrado,485,LFQ,175.0,191.0
+2022-04-12 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,6.2,19.35483871,5.0,Espresso,516,LFQ,175.0,195.0
+2022-11-12 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,481,LFQ,175.0,192.0
+2022-11-12 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,6.2,19.35483871,5.0,Espresso,525,LFQ,175.0,195.0
+14-12-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,27.0,14.81481481,23.0,Filtrado,485,LFQ,175.0,192.0
+18-12-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,481,LFQ,175.0,191.0
+22-12-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,486,LFQ,175.0,192.0
+22-12-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Espresso,525,LFQ,175.0,195.0
+22-12-22,08-241122,Jerico,Gesha,Honey,Honey,3.0,14.0,2.58,Filtrado,483,LFQ,170.0,189.0
+22-12-22,05-241122,Jerico,Dos mil,Tradicional,Lavado,3.0,15.33333333,2.54,Filtrado,503,LFQ,175.0,191.0
+27-12-22,01-291022,Jerico,Dos mil,Tradicional,Lavado,3.2,15.625,2.7,Filtrado,486,LFQ,175.0,192.0
+29-12-22,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,62.0,19.35483871,50.0,Filtrado,498,LFQ,175.0,191.0
+30-12-22,01-301222,Jerico,Colombia,Tradicional,Lavado,144.0,16.66666667,120.0,Espresso,506,LFQ,175.0,196.0
+30-12-22,01-301222,Jerico,Colombia,Tradicional,Lavado,84.0,16.66666667,70.0,Filtrado,490,LFQ,175.0,191.0
+31-12-22,08-241122,Jerico,Gesha,Honey,Honey,3.2,15.625,2.7,Filtrado,483,LFQ,170.0,189.0
+2023-04-01 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,9.2,18.47826087,7.5,Espresso,494,LFQ,175.0,195.0
+2023-06-01 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,2.8,15.0,2.38,Filtrado,482,LFQ,170.0,189.0
+2023-06-01 00:00:00,02-241122,Jerico,Dos mil,Natural,Natural,6.2,18.06451613,5.08,Filtrado,490,LFQ,170.0,191.0
+2023-06-01 00:00:00,05-241122,Jerico,Dos mil,Tradicional,Lavado,5.0,11.6,4.42,Filtrado,485,LFQ,170.0,192.0
+2023-06-01 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,15.5,16.64516129,12.92,Filtrado,484,LFQ,170.0,191.0
+2023-06-01 00:00:00,01-291022,Jerico,Dos mil,Tradicional,Lavado,6.2,19.35483871,5.0,Espresso,496,LFQ,175.0,195.0
+14-1-23,01-291022,Jerico,Dos mil,Tradicional,Lavado,6.2,19.35483871,5.0,Espresso,527,LFQ,175.0,195.0
+14-1-23,05-241122,Jerico,Dos mil,Tradicional,Lavado,3.0,15.33333333,2.54,Filtrado,503,LFQ,175.0,191.0
+14-1-23,02-241122,Jerico,Dos mil,Natural,Natural,6.0,15.33333333,5.08,Filtrado,490,LFQ,170.0,191.0
+14-1-23,08-241122,Jerico,Gesha,Honey,Honey,3.0,20.66666667,2.38,Filtrado,482,LFQ,170.0,190.0
+17-1-23,01-291022,Jerico,Dos mil,Tradicional,Lavado,3.0,17.66666667,2.47,Filtrado,490,LFQ,175.0,191.0
+17-1-23,08-241122,Jerico,Gesha,Honey,Honey,3.0,13.33333333,2.6,Filtrado,501,LFQ,175.0,192.0
+26-01-23,01-291022,Jerico,Dos mil,Tradicional,Lavado,66.0,20.45454545,52.5,Filtrado,490,LFQ,175.0,191.0
+28-01-23,02-241122,Jerico,Dos mil,Natural,Natural,6.0,15.33333333,5.08,Filtrado,490,LFQ,170.0,191.0
+28-01-23,08-241122,Jerico,Gesha,Honey,Honey,6.0,15.33333333,5.08,Filtrado,482,LFQ,170.0,190.0
+28-01-23,01-291022,Jerico,Dos mil,Tradicional,Lavado,6.0,15.16666667,5.09,Filtrado,518,LFQ,175.0,191.0
+28-01-23,01-291022,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,496,LFQ,175.0,195.0
+30-1-23,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,12.0,16.66666667,10.0,Filtrado,496,LFQ,175.0,191.0
+30-1-23,01-291222,Jerico,Dos mil,Tradicional,Lavado,48.0,16.66666667,40.0,Filtrado,518,LFQ,175.0,191.0
+30-1-23,01-291222,Jerico,Dos mil,Tradicional,Lavado,62.0,19.35483871,50.0,Espresso,525,LFQ,175.0,195.0
+2023-02-02 00:00:00,01-291222,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,528,LFQ,175.0,195.0
+2023-02-02 00:00:00,05-241122,Jerico,Dos mil,Tradicional,Lavado,3.0,15.33333333,2.54,Filtrado,503,LFQ,175.0,191.0
+2023-09-02 00:00:00,01-291222,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,492,LFQ,175.0,192.0
+2023-09-02 00:00:00,01-291222,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,527,LFQ,175.0,195.0
+2023-09-02 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,3.25,16.92307692,2.7,Filtrado,481,LFQ,170.0,191.0
+2023-09-02 00:00:00,02-241122,Jerico,Dos mil,Natural,Natural,3.25,16.92307692,2.7,Filtrado,512,LFQ,170.0,190.0
+2023-09-02 00:00:00,01-291222,Jerico,Dos mil,Tradicional,Lavado,2.0,15.0,1.7,Filtrado,495,LFQ,175.0,191.0
+2023-10-02 00:00:00,01-291222,Jerico,Dos mil,Tradicional,Lavado,8.0,16.25,6.7,Filtrado,500,LFQ,175.0,192.0
+2023-10-02 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,3.2,15.625,2.7,Filtrado,494,LFQ,175.0,191.0
+2023-10-02 00:00:00,02-241122,Jerico,Dos mil,Natural,Natural,3.2,15.625,2.7,Filtrado,498,LFQ,175.0,191.0
+16-2-23,01-291222,Jerico,Dos mil,Tradicional,Lavado,48.0,16.66666667,40.0,Filtrado,521,LFQ,175.0,192.0
+16-2-23,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,12.0,16.66666667,10.0,Filtrado,505,LFQ,175.0,192.0
+16-2-23,02-241122,Jerico,Dos mil,Natural,Natural,1.2,16.66666667,1.0,Filtrado,417,LFQ,175.0,190.0
+16-2-23,07-010223,Jerico,Dos mil,Tradicional,Lavado,1.2,16.66666667,1.0,Filtrado,414,LFQ,175.0,190.0
+16-2-23,11-010223,Herrera,Wush Wush,Natural,Natural,1.2,16.66666667,1.0,Filtrado,412,LFQ,175.0,190.0
+18-2-23,01-291222,Jerico,Dos mil,Tradicional,Lavado,58.0,16.37931034,48.5,Filtrado,494,LFQ,175.0,192.0
+18-2-23,12-100223,Salento,Pink Bourbon,Honey,Honey,1.2,16.66666667,1.0,Filtrado,414,LFQ,175.0,195.0
+18-2-23,02-241122,Jerico,Dos mil,Natural,Natural,6.0,15.0,5.1,Filtrado,500,LFQ,170.0,191.0
+18-2-23,08-241122,Jerico,Gesha,Honey,Honey,7.5,18.66666667,6.1,Filtrado,492,LFQ,170.0,190.0
+18-2-23,05-241122,Jerico,Dos mil,Tradicional,Lavado,4.2,19.04761905,3.4,Filtrado,516,LFQ,175.0,191.0
+20-2-23,01-291222,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,192.0
+20-2-23,12-100223,Salento,Pink Bourbon,Honey,Honey,1.2,16.66666667,1.0,Filtrado,414,LFQ,175.0,191.0
+20-2-23,01-291222,Jerico,Dos mil,Tradicional,Lavado,2.1,19.04761905,1.7,Filtrado,498,LFQ,170.0,191.0
+20-2-23,08-241122,Jerico,Gesha,Honey,Honey,2.6,21.53846154,2.04,Filtrado,494,LFQ,175.0,191.0
+20-2-23,11-010223,Herrera,Wush Wush,Natural,Natural,1.2,16.66666667,1.0,Filtrado,412,LFQ,175.0,190.0
+20-2-23,02-241122,Jerico,Dos mil,Natural,Natural,1.25,18.4,1.02,Filtrado,494,LFQ,175.0,191.0
+21-2-23,08-241122,Jerico,Gesha,Honey,Honey,2.5,18.4,2.04,Filtrado,516,LFQ,175.0,191.0
+28-2-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,200.0,16.25,167.5,Espresso,527,LFQ,175.0,195.0
+28-2-23,09-190722,Ciudad Bolivar,Tabi,Natural,Natural,35.0,14.28571429,30.0,Filtrado,490,LFQ,175.0,191.0
+28-2-23,02-241122,Jerico,Dos mil,Natural,Natural,11.5,17.56521739,9.48,Filtrado,501,LFQ,175.0,192.0
+28-2-23,08-241122,Jerico,Gesha,Honey,Honey,2.8,15.0,2.38,Filtrado,490,LFQ,175.0,191.0
+28-2-23,05-241122,Jerico,Dos mil,Tradicional,Lavado,8.2,17.07317073,6.8,Filtrado,490,LFQ,170.0,191.0
+28-2-23,07-010223,Jerico,Dos mil,Tradicional,Lavado,1.2,16.66666667,1.0,Filtrado,482,LFQ,170.0,190.0
+2023-01-03 00:00:00,11-010223,Herrera,Wush Wush,Natural,Natural,1.2,16.66666667,1.0,Filtrado,412,LFQ,175.0,190.0
+2023-01-03 00:00:00,12-100223,Salento,Pink Bourbon,Honey,Honey,1.2,16.66666667,1.0,Filtrado,414,LFQ,175.0,191.0
+2023-01-03 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,57.0,16.66666667,47.5,Filtrado,414,LFQ,175.0,195.0
+2023-01-03 00:00:00,11-010223,Herrera,Wush Wush,Natural,Natural,1.2,16.66666667,1.0,Filtrado,412,LFQ,175.0,190.0
+2023-04-03 00:00:00,12-100223,Salento,Pink Bourbon,Honey,Honey,1.2,16.66666667,1.0,Filtrado,410,LFQ,175.0,191.0
+2023-04-03 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,414,LFQ,175.0,195.0
+2023-04-03 00:00:00,07-010223,Jerico,Dos mil,Tradicional,Lavado,1.2,16.66666667,1.0,Filtrado,482,LFQ,170.0,190.0
+2023-06-03 00:00:00,02-241122,Jerico,Dos mil,Natural,Natural,4.2,19.04761905,3.4,Filtrado,501,LFQ,175.0,192.0
+2023-06-03 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,4.2,19.04761905,3.4,Filtrado,414,LFQ,175.0,195.0
+2023-06-03 00:00:00,05-241122,Jerico,Dos mil,Tradicional,Lavado,4.2,19.04761905,3.4,Filtrado,490,LFQ,170.0,191.0
+2023-06-03 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,2.0,15.0,1.7,Filtrado,414,LFQ,175.0,195.0
+2023-06-03 00:00:00,12-100223,Salento,Pink Bourbon,Honey,Honey,0.6,16.66666667,0.5,Filtrado,414,LFQ,175.0,191.0
+2023-06-03 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,2.5,20.0,2.0,Espresso,527,LFQ,175.0,195.0
+2023-08-03 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,414,LFQ,175.0,195.0
+2023-08-03 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,2.5,16.0,2.1,Espresso,527,LFQ,175.0,195.0
+2023-08-03 00:00:00,12-100223,Salento,Pink Bourbon,Honey,Honey,0.6,16.66666667,0.5,Filtrado,414,LFQ,175.0,191.0
+2023-11-03 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,15.0,16.66666667,12.5,Espresso,527,LFQ,175.0,195.0
+15-3-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,84.0,16.66666667,70.0,Filtrado,490,LFQ,170.0,191.0
+15-3-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,84.0,16.66666667,70.0,Espresso,529,LFQ,175.0,195.0
+15-3-23,12-100223,Salento,Pink Bourbon,Honey,Honey,50.0,15.0,42.5,Filtrado,527,LFQ,175.0,192.0
+15-3-23,02-241122,Jerico,Dos mil,Natural,Natural,9.0,16.66666667,7.5,Filtrado,482,LFQ,170.0,190.0
+17-3-23,02-241122,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,492,LFQ,175.0,190.0
+17-3-23,08-241122,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,527,LFQ,175.0,190.0
+17-3-23,05-241122,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,481,LFQ,175.0,192.0
+17-3-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,512,LFQ,175.0,195.0
+23-03-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,21.0,16.66666667,17.5,Filtrado,490,LFQ,170.0,191.0
+23-03-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,4.4,18.18181818,3.6,Espresso,501,LFQ,175.0,195.0
+23-03-23,12-100223,Salento,Pink Bourbon,Honey,Honey,1.6,18.75,1.3,Filtrado,414,LFQ,175.0,192.0
+28-3-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,158.0,17.72151899,130.0,Espresso,512,LFQ,175.0,195.0
+28-3-23,02-241122,Jerico,Dos mil,Natural,Natural,48.0,16.66666667,40.0,Filtrado,482,LFQ,175.0,190.0
+29-3-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,492,LFQ,175.0,191.0
+29-3-23,11-010223,Herrera,Wush Wush,Natural,Natural,2.1,19.04761905,1.7,Filtrado,495,LFQ,175.0,190.0
+2023-03-04 00:00:00,03-010223,Jerico,Dos mil,Tradicional,Descafeinado,2.1,19.04761905,1.7,Filtrado,414,LFQ,170.0,191.0
+2023-03-04 00:00:00,11-010223,Herrera,Wush Wush,Natural,Natural,1.8,27.77777778,1.3,Filtrado,512,LFQ,170.0,190.0
+2023-03-04 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,63.0,16.66666667,52.5,Filtrado,482,LFQ,175.0,191.0
+2023-03-04 00:00:00,02-241122,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,501,LFQ,175.0,192.0
+2023-03-04 00:00:00,08-241122,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,491,LFQ,175.0,191.0
+2023-03-04 00:00:00,07-010223,Jerico,Dos mil,Tradicional,Lavado,1.2,16.66666667,1.0,Filtrado,433,LFQ,170.0,191.0
+2023-07-04 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,156.0,16.66666667,130.0,Espresso,534,LFQ,170.0,195.0
+14-4-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,35.0,14.28571429,30.0,Filtrado,492,LFQ,170.0,191.0
+18-4-23,11-140423,Herrera,Wush Wush,Natural,Natural,4.0,15.0,3.4,Filtrado,512,LFQ,170.0,190.0
+20-4-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,9.0,16.66666667,7.5,Filtrado,482,LFQ,175.0,191.0
+20-4-23,02-241122,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,501,LFQ,175.0,192.0
+20-4-23,08-240423,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,491,LFQ,175.0,191.0
+20-4-23,07-010223,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,433,LFQ,170.0,191.0
+21-4-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Espresso,534,LFQ,170.0,195.0
+21-4-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,485,LFQ,175.0,191.0
+24-4-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,110.0,18.18181818,90.0,Espresso,534,LFQ,170.0,195.0
+24-4-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,24.0,16.66666667,20.0,Filtrado,492,LFQ,170.0,191.0
+2023-09-05 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,52.0,18.26923077,42.5,Filtrado,485,LFQ,175.0,192.0
+2023-09-05 00:00:00,02-200423,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,501,LFQ,175.0,192.0
+2023-09-05 00:00:00,08-240423,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,491,LFQ,175.0,191.0
+2023-09-05 00:00:00,07-010223,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,465,LFQ,170.0,191.0
+15-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,195.0,17.94871795,160.0,Espresso,534,LFQ,170.0,195.0
+15-5-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,35.0,14.28571429,30.0,Filtrado,492,LFQ,170.0,191.0
+17-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,45.0,16.66666667,37.5,Filtrado,485,LFQ,175.0,192.0
+18-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,494,LFQ,175.0,191.0
+18-5-23,02-200423,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,482,LFQ,175.0,190.0
+18-5-23,08-240423,Jerico,Gesha,Honey,Honey,3.0,16.66666667,2.5,Filtrado,481,LFQ,175.0,191.0
+18-5-23,11-140423,Herrera,Wush Wush,Natural,Natural,2.0,15.0,1.7,Filtrado,465,LFQ,170.0,190.0
+23-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,15.0,16.66666667,12.5,Filtrado,494,LFQ,175.0,191.0
+23-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,8.0,18.75,6.5,Espresso,501,LFQ,175.0,195.0
+23-5-23,08-240423,Jerico,Gesha,Honey,Honey,2.38,15.96638655,2.0,Filtrado,481,LFQ,175.0,191.0
+27-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,33.0,16.66666667,27.5,Filtrado,497,LFQ,175.0,191.0
+27-5-23,02-200423,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,501,LFQ,175.0,190.0
+27-5-23,07-010223,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,478,LFQ,170.0,191.0
+27-5-23,13-250523,Planadas,Pink Bourbon,Natural,Natural,1.0,20.0,0.8,Filtrado,318,LFQ,170.0,189.0
+29-5-23,03-010223,Jerico,Dos mil,Tradicional,Descafeinado,2.1,19.04761905,1.7,Filtrado,414,LFQ,170.0,191.0
+31-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,86.0,18.60465116,70.0,Filtrado,494,LFQ,175.0,191.0
+31-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,103.0,22.33009709,80.0,Espresso,501,LFQ,175.0,195.0
+31-5-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,74.0,18.91891892,60.0,Filtrado,494,LFQ,175.0,191.0
+2023-01-06 00:00:00,13-250523,Planadas,Pink Bourbon,Natural,Natural,2.0,16.0,1.68,Filtrado,318,LFQ,170.0,189.0
+2023-01-06 00:00:00,03-010223,Jerico,Dos mil,Tradicional,Descafeinado,1.2,16.66666667,1.0,Filtrado,414,LFQ,170.0,191.0
+2023-01-06 00:00:00,08-240423,Jerico,Gesha,Honey,Honey,9.0,16.66666667,7.5,Filtrado,481,LFQ,175.0,191.0
+2023-01-06 00:00:00,02-200423,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,501,LFQ,175.0,190.0
+2023-04-06 00:00:00,11-140423,Herrera,Wush Wush,Natural,Natural,2.0,15.0,1.7,Filtrado,465,LFQ,170.0,190.0
+17-6-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,521,LFQ,175.0,192.0
+17-6-23,02-200423,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,492,LFQ,175.0,192.0
+17-6-23,08-240423,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,506,LFQ,170.0,191.0
+17-6-23,07-010223,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,465,LFQ,170.0,191.0
+21-6-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,21.0,16.66666667,17.5,Filtrado,521,LFQ,175.0,192.0
+21-6-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,124.0,19.35483871,100.0,Espresso,521,LFQ,175.0,192.0
+21-6-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,60.0,16.66666667,50.0,Filtrado,492,LFQ,170.0,191.0
+22-6-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,525,LFQ,175.0,192.0
+22-6-23,02-200423,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,495,LFQ,175.0,192.0
+22-6-23,08-240423,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,509,LFQ,170.0,191.0
+22-6-23,05-240123,Jerico,Dos mil,Tradicional,Lavado,15.0,16.66666667,12.5,Espresso,528,LFQ,175.0,192.0
+30-6-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,520,LFQ,175.0,190.0
+2023-01-07 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,515,LFQ,175.0,191.0
+2023-04-07 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Espresso,515,LFQ,175.0,195.0
+2023-04-07 00:00:00,08-040723,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,506,LFQ,170.0,191.0
+2023-04-07 00:00:00,07-040723,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,520,LFQ,175.0,190.0
+2023-04-07 00:00:00,13-250523,Planadas,Pink Bourbon,Natural,Natural,1.2,16.66666667,1.0,Filtrado,318,LFQ,170.0,189.0
+2023-05-07 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,9.0,16.66666667,7.5,Filtrado,482,LFQ,170.0,191.0
+2023-05-07 00:00:00,02-200423,Jerico,Dos mil,Natural,Natural,1.2,16.66666667,1.0,Filtrado,434,LFQ,175.0,192.0
+2023-05-07 00:00:00,08-040723,Jerico,Gesha,Honey,Honey,1.2,16.66666667,1.0,Filtrado,423,LFQ,170.0,191.0
+2023-05-07 00:00:00,07-040723,Jerico,Dos mil,Tradicional,Lavado,1.2,16.66666667,1.0,Filtrado,422,LFQ,170.0,191.0
+2023-06-07 00:00:00,01-010223,Jerico,Dos mil,Tradicional,Lavado,33.0,16.66666667,27.5,Filtrado,522,LFQ,175.0,193.0
+13-7-23,02-200423,Jerico,Dos mil,Natural,Natural,9.0,16.66666667,7.5,Filtrado,434,LFQ,175.0,192.0
+13-7-23,08-040723,Jerico,Gesha,Honey,Honey,9.0,16.66666667,7.5,Filtrado,423,LFQ,170.0,191.0
+13-7-23,07-040723,Jerico,Dos mil,Tradicional,Lavado,9.0,16.66666667,7.5,Filtrado,422,LFQ,170.0,191.0
+19-7-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,155.0,19.35483871,125.0,Espresso,515,LFQ,175.0,195.0
+19-7-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,96.0,16.66666667,80.0,Filtrado,506,LFQ,170.0,191.0
+19-7-23,02-200423,Jerico,Dos mil,Natural,Natural,1.2,16.66666667,1.0,Filtrado,434,LFQ,175.0,192.0
+19-7-23,08-040723,Jerico,Gesha,Honey,Honey,1.2,16.66666667,1.0,Filtrado,423,LFQ,170.0,191.0
+19-7-23,07-040723,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,422,LFQ,170.0,191.0
+25-7-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,45.0,16.66666667,37.5,Filtrado,465,LFQ,180.0,193.0
+25-7-23,02-200423,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+25-7-23,07-040723,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,482,LFQ,175.0,190.0
+27-7-23,13-250523,Planadas,Pink Bourbon,Natural,Natural,2.2,22.72727273,1.7,Filtrado,421,LFQ,170.0,189.0
+27-7-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,3.0,16.66666667,2.5,Filtrado,465,LFQ,175.0,192.0
+28-7-23,11-120723,Herrera,Wush Wush,Natural,Natural,2.2,22.72727273,1.7,Filtrado,434,LFQ,170.0,189.0
+28-7-23,03-010223,Jerico,Dos mil,Tradicional,Descafeinado,2.2,22.72727273,1.7,Filtrado,441,LFQ,175.0,190.0
+31-7-23,01-010223,Jerico,Dos mil,Tradicional,Lavado,48.0,16.66666667,40.0,Filtrado,465,LFQ,180.0,193.0
+2023-02-08 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,200.0,20.0,160.0,Espresso,534,LFQ,180.0,193.0
+2023-02-08 00:00:00,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,60.0,16.66666667,50.0,Filtrado,492,LFQ,170.0,191.0
+2023-05-08 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,26.5,16.98113208,22.0,Filtrado,465,LFQ,180.0,193.0
+2023-05-08 00:00:00,08-040723,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,423,LFQ,170.0,191.0
+2023-05-08 00:00:00,02-200423,Jerico,Dos mil,Natural,Natural,12.0,16.66666667,10.0,Filtrado,494,LFQ,175.0,191.0
+2023-09-08 00:00:00,07-040723,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,482,LFQ,175.0,190.0
+2023-09-08 00:00:00,11-120723,Herrera,Wush Wush,Natural,Natural,1.2,16.66666667,1.0,Filtrado,434,LFQ,170.0,189.0
+2023-09-08 00:00:00,08-040723,Jerico,Gesha,Honey,Honey,1.2,16.66666667,1.0,Filtrado,423,LFQ,170.0,191.0
+2023-10-08 00:00:00,11-120723,Herrera,Wush Wush,Natural,Natural,2.1,19.04761905,1.7,Filtrado,434,LFQ,170.0,189.0
+2023-10-08 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,465,LFQ,180.0,193.0
+22-8-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,39.5,17.72151899,32.5,Filtrado,523,LFQ,180.0,192.0
+22-8-23,11-120723,Herrera,Wush Wush,Natural,Natural,2.1,19.04761905,1.7,Filtrado,434,LFQ,170.0,189.0
+22-8-23,07-040723,Jerico,Dos mil,Tradicional,Lavado,9.0,16.66666667,7.5,Filtrado,482,LFQ,175.0,190.0
+22-8-23,13-250523,Planadas,Pink Bourbon,Natural,Natural,1.2,16.66666667,1.0,Filtrado,318,LFQ,170.0,189.0
+22-8-23,08-040723,Jerico,Gesha,Honey,Honey,1.2,16.66666667,1.0,Filtrado,423,LFQ,170.0,191.0
+23-8-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,45.0,16.66666667,37.5,Filtrado,523,LFQ,180.0,192.0
+23-8-23,07-040723,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,482,LFQ,175.0,190.0
+23-8-23,08-040723,Jerico,Gesha,Honey,Honey,3.0,16.66666667,2.5,Filtrado,423,LFQ,170.0,191.0
+28-8-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,21.0,16.66666667,17.5,Filtrado,523,LFQ,180.0,192.0
+28-8-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,60.0,16.66666667,50.0,Filtrado,492,LFQ,170.0,191.0
+30-8-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,492,LFQ,175.0,192.0
+31-8-23,11-120723,Herrera,Wush Wush,Natural,Natural,2.1,19.04761905,1.7,Filtrado,434,LFQ,170.0,189.0
+31-8-23,02-160823,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+2023-06-09 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,45.0,16.66666667,37.5,Filtrado,492,LFQ,175.0,192.0
+2023-06-09 00:00:00,07-040723,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,482,LFQ,175.0,190.0
+2023-06-09 00:00:00,08-080923,Jerico,Gesha,Honey,Honey,15.0,20.0,12.0,Filtrado,423,LFQ,170.0,191.0
+2023-09-09 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,18.0,16.66666667,15.0,Filtrado,492,LFQ,175.0,192.0
+2023-09-09 00:00:00,08-080923,Jerico,Gesha,Honey,Honey,24.0,16.66666667,20.0,Filtrado,503,LFQ,170.0,191.0
+2023-09-09 00:00:00,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,24.0,16.66666667,20.0,Filtrado,492,LFQ,170.0,191.0
+2023-12-09 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,492,LFQ,175.0,192.0
+2023-12-09 00:00:00,03-010223,Jerico,Dos mil,Tradicional,Descafeinado,3.0,16.66666667,2.5,Filtrado,414,LFQ,170.0,191.0
+2023-12-09 00:00:00,11-120723,Herrera,Wush Wush,Natural,Natural,6.0,16.66666667,5.0,Filtrado,434,LFQ,170.0,189.0
+2023-12-09 00:00:00,14-080923,Jerico,Dos mil,Lavado,Lavado,12.0,16.66666667,10.0,Filtrado,505,LFQ,170.0,189.0
+2023-12-09 00:00:00,16-080923,Jerico,Gesha,Natural,Natural,6.0,16.66666667,5.0,Espresso,503,LFQ,170.0,191.0
+2023-12-09 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,110.0,18.18181818,90.0,Filtrado,492,LFQ,175.0,192.0
+2023-12-09 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,492,LFQ,175.0,192.0
+2023-12-09 00:00:00,11-120723,Herrera,Wush Wush,Natural,Natural,1.2,16.66666667,1.0,Filtrado,434,LFQ,170.0,189.0
+2023-12-09 00:00:00,14-080923,Jerico,Dos mil,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,505,LFQ,170.0,189.0
+2023-12-09 00:00:00,08-080923,Jerico,Gesha,Honey,Honey,1.2,16.66666667,1.0,Filtrado,423,LFQ,170.0,191.0
+21-9-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,84.5,17.15976331,70.0,Filtrado,492,LFQ,175.0,192.0
+21-9-23,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,492,LFQ,175.0,192.0
+21-9-23,11-120723,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,434,LFQ,170.0,189.0
+25-9-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,24.0,16.66666667,20.0,Filtrado,492,LFQ,175.0,192.0
+2023-02-10 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,69.0,17.39130435,57.0,Espresso,490,LFQ,175.0,193.0
+2023-06-10 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,4.1,17.07317073,3.4,Filtrado,505,LFQ,170.0,189.0
+2023-06-10 00:00:00,11-120723,Herrera,Wush Wush,Natural,Natural,2.9,17.24137931,2.4,Filtrado,423,LFQ,170.0,191.0
+2023-06-10 00:00:00,14-080923,Jerico,Dos mil,Lavado,Lavado,2.9,17.24137931,2.4,Filtrado,492,LFQ,175.0,192.0
+2023-11-10 00:00:00,16-080923,Jerico,Gesha,Natural,Natural,6.0,16.66666667,5.0,Espresso,503,LFQ,170.0,191.0
+2023-11-10 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,492,LFQ,175.0,192.0
+2023-11-10 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,430,LFQ,170.0,189.0
+2023-11-10 00:00:00,14-080923,Jerico,Dos mil,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,423,LFQ,170.0,191.0
+19-10-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,55.0,18.18181818,45.0,Filtrado,492,LFQ,175.0,192.0
+19-10-23,16-080923,Jerico,Gesha,Natural,Natural,9.0,16.66666667,7.5,Espresso,503,LFQ,170.0,191.0
+19-10-23,09-140423,Ciudad Bolivar,Tabi,Natural,Natural,36.0,16.66666667,30.0,Filtrado,492,LFQ,170.0,191.0
+19-10-23,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,490,LFQ,170.0,190.0
+25-10-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,492,LFQ,175.0,192.0
+25-10-23,15-080923,Aipe,Maragogipe,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,481,LFQ,170.0,189.0
+25-10-23,14-080923,Jerico,Dos mil,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,483,LFQ,170.0,191.0
+25-10-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Espresso,503,LFQ,175.0,192.0
+25-10-23,16-080923,Jerico,Gesha,Natural,Natural,6.0,16.66666667,5.0,Espresso,503,LFQ,170.0,191.0
+25-10-23,08-080923,Jerico,Gesha,Honey,Honey,6.0,16.66666667,5.0,Filtrado,491,LFQ,170.0,191.0
+26-10-23,01-020823,Jerico,Dos mil,Tradicional,Lavado,35.0,14.28571429,30.0,Filtrado,501,LFQ,175.0,192.0
+30-10-23,16-080923,Jerico,Gesha,Natural,Natural,8.0,18.75,6.5,Espresso,503,LFQ,170.0,191.0
+30-10-23,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,6.0,50.0,3.0,Filtrado,490,LFQ,170.0,190.0
+30-10-23,11-301023,Herrera,Wush Wush,Natural,Natural,5.0,16.0,4.2,Filtrado,423,LFQ,170.0,191.0
+30-10-23,14-080923,Jerico,Dos mil,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,483,LFQ,170.0,191.0
+30-10-23,02-301023,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+2023-06-11 00:00:00,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,490,LFQ,170.0,190.0
+2023-06-11 00:00:00,11-301023,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,423,LFQ,170.0,191.0
+2023-06-11 00:00:00,14-080923,Jerico,Dos mil,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,483,LFQ,170.0,191.0
+2023-06-11 00:00:00,02-301023,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+2023-06-11 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,33.0,16.66666667,27.5,Filtrado,501,LFQ,175.0,192.0
+2023-06-11 00:00:00,10-201023,Rovira,Castillo,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,492,LFQ,180.0,193.0
+2023-08-11 00:00:00,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,492,LFQ,170.0,190.0
+2023-08-11 00:00:00,01-020823,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,541,LFQ,175.0,192.0
+14-11-23,09-141123,Ciudad Bolivar,Tabi,Natural,Natural,35.0,14.28571429,30.0,Filtrado,550,LFQ,180.0,191.0
+14-11-23,01-141123,Jerico,Dos mil,Tradicional,Lavado,61.0,13.93442623,52.5,Filtrado,538,LFQ,180.0,193.0
+14-11-23,02-301023,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+14-11-23,04-201023,San Antonio,Caturra,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,492,LFQ,170.0,189.0
+14-11-23,10-201023,Rovira,Castillo,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,492,LFQ,180.0,193.0
+14-11-23,11-301023,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,423,LFQ,170.0,191.0
+14-11-23,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,481,LFQ,170.0,189.0
+21-11-23,01-141123,Jerico,Dos mil,Tradicional,Lavado,90.0,16.66666667,75.0,Filtrado,538,LFQ,180.0,193.0
+21-11-23,02-301023,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+21-11-23,04-201023,San Antonio,Caturra,Lavado,Lavado,5.4,16.66666667,4.5,Filtrado,492,LFQ,170.0,189.0
+21-11-23,10-201023,Rovira,Castillo,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,491,LFQ,180.0,193.0
+21-11-23,11-301023,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,514,LFQ,170.0,191.0
+21-11-23,15-080923,Aipe,Maragogipe,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,514,LFQ,170.0,189.0
+21-11-23,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,9.0,17.77777778,7.4,Filtrado,489,LFQ,170.0,190.0
+28-11-23,10-201023,Rovira,Castillo,Tradicional,Lavado,9.0,16.66666667,7.5,Espresso,491,LFQ,180.0,193.0
+30-11-23,17-141123,Quimbaya,Bourbon Rojo,Honey,Honey,6.0,16.66666667,5.0,Filtrado,512,LFQ,170.0,191.0
+30-11-23,01-141123,Jerico,Dos mil,Tradicional,Lavado,51.0,16.66666667,42.5,Filtrado,538,LFQ,180.0,193.0
+30-11-23,11-301023,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,423,LFQ,170.0,191.0
+2023-06-12 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,514,LFQ,170.0,189.0
+2023-06-12 00:00:00,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,489,LFQ,170.0,190.0
+2023-06-12 00:00:00,10-201023,Rovira,Castillo,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,491,LFQ,180.0,193.0
+2023-06-12 00:00:00,17-141123,Quimbaya,Bourbon Rojo,Honey,Honey,3.0,16.66666667,2.5,Filtrado,512,LFQ,170.0,191.0
+2023-11-12 00:00:00,01-141123,Jerico,Dos mil,Tradicional,Lavado,105.0,16.66666667,87.5,Filtrado,489,LFQ,170.0,190.0
+2023-11-12 00:00:00,02-301023,Jerico,Dos mil,Natural,Natural,9.0,18.88888889,7.3,Filtrado,494,LFQ,175.0,191.0
+2023-11-12 00:00:00,17-141123,Quimbaya,Bourbon Rojo,Honey,Honey,9.0,17.77777778,7.4,Filtrado,512,LFQ,170.0,191.0
+2023-11-12 00:00:00,05-111223,Jerico,Dos mil,Lavado,Lavado,6.0,21.66666667,4.7,Filtrado,512,LFQ,170.0,191.0
+2023-11-12 00:00:00,08-111223,Jerico,Gesha,Honey,Honey,9.0,17.77777778,7.4,Filtrado,538,LFQ,180.0,193.0
+2023-11-12 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,7.0,17.14285714,5.8,Filtrado,514,LFQ,170.0,189.0
+2023-11-12 00:00:00,11-301023,Herrera,Wush Wush,Natural,Natural,9.0,16.66666667,7.5,Filtrado,423,LFQ,170.0,191.0
+2023-11-12 00:00:00,03-010223,Jerico,Dos mil,Tradicional,Descafeinado,1.2,16.66666667,1.0,Filtrado,414,LFQ,170.0,191.0
+2023-11-12 00:00:00,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,9.0,17.77777778,7.4,Filtrado,489,LFQ,170.0,190.0
+19-12-23,02-301023,Jerico,Dos mil,Natural,Natural,6.0,18.33333333,4.9,Filtrado,494,LFQ,175.0,191.0
+19-12-23,04-201023,San Antonio,Caturra,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,492,LFQ,170.0,189.0
+26-12-23,01-141123,Jerico,Dos mil,Tradicional,Lavado,60.0,16.66666667,50.0,Filtrado,489,LFQ,170.0,190.0
+2024-10-01 00:00:00,01-141123,Jerico,Dos mil,Tradicional,Lavado,75.0,16.66666667,62.5,Filtrado,538,LFQ,180.0,193.0
+2024-10-01 00:00:00,10-201023,Rovira,Castillo,Tradicional,Lavado,9.0,16.66666667,7.5,Espresso,491,LFQ,180.0,193.0
+2024-10-01 00:00:00,11-301023,Herrera,Wush Wush,Natural,Natural,2.0,15.0,1.7,Filtrado,423,LFQ,170.0,191.0
+2024-10-01 00:00:00,17-141123,Quimbaya,Bourbon Rojo,Honey,Honey,2.0,15.0,1.7,Filtrado,512,LFQ,170.0,191.0
+2024-10-01 00:00:00,04-201023,San Antonio,Caturra,Lavado,Lavado,2.0,15.0,1.7,Filtrado,492,LFQ,170.0,189.0
+2024-10-01 00:00:00,02-301023,Jerico,Dos mil,Natural,Natural,9.0,18.88888889,7.3,Filtrado,494,LFQ,175.0,191.0
+2024-10-01 00:00:00,18-221223,Rioblanco,Caturra,Lavado,Lavado,1.2,16.66666667,1.0,Filtrado,432,LFQ,170.0,189.0
+15-1-24,10-201023,Rovira,Castillo,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,491,LFQ,180.0,193.0
+15-1-24,11-301023,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,423,LFQ,170.0,191.0
+15-1-24,17-141123,Quimbaya,Bourbon Rojo,Honey,Honey,3.0,16.66666667,2.5,Filtrado,512,LFQ,170.0,191.0
+15-1-24,02-301023,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+15-1-24,01-141123,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,538,LFQ,180.0,193.0
+21-1-24,01-141123,Jerico,Dos mil,Tradicional,Lavado,60.0,16.66666667,50.0,Filtrado,538,LFQ,180.0,193.0
+21-1-24,08-111223,Jerico,Gesha,Honey,Honey,3.0,18.33333333,2.45,Filtrado,538,LFQ,180.0,193.0
+21-1-24,10-201023,Rovira,Castillo,Tradicional,Lavado,9.0,16.66666667,7.5,Espresso,491,LFQ,180.0,193.0
+22-1-24,17-141123,Quimbaya,Bourbon Rojo,Honey,Honey,6.0,16.66666667,5.0,Filtrado,512,LFQ,170.0,191.0
+22-1-24,05-111223,Jerico,Dos mil,Lavado,Lavado,6.0,21.66666667,4.7,Filtrado,512,LFQ,170.0,191.0
+22-1-24,01-220124,Jerico,Dos mil,Tradicional,Lavado,36.0,16.66666667,30.0,Filtrado,538,LFQ,180.0,193.0
+22-1-24,11-301023,Herrera,Wush Wush,Natural,Natural,3.0,16.66666667,2.5,Filtrado,423,LFQ,170.0,191.0
+22-1-24,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,514,LFQ,170.0,189.0
+30-1-24,01-220124,Jerico,Dos mil,Tradicional,Lavado,18.0,16.66666667,15.0,Filtrado,538,LFQ,180.0,193.0
+30-1-24,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+2024-02-02 00:00:00,18-221223,Rioblanco,Caturra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,541,LFQ,170.0,190.0
+2024-02-02 00:00:00,05-111223,Jerico,Dos mil,Lavado,Lavado,3.0,20.0,2.4,Filtrado,496,LFQ,175.0,191.0
+2024-02-02 00:00:00,10-201023,Rovira,Castillo,Tradicional,Lavado,6.0,16.66666667,5.0,Espresso,491,LFQ,180.0,193.0
+2024-02-02 00:00:00,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+2024-02-02 00:00:00,01-220124,Jerico,Dos mil,Tradicional,Lavado,105.0,16.66666667,87.5,Filtrado,538,LFQ,180.0,193.0
+14-2-24,01-220124,Jerico,Dos mil,Tradicional,Lavado,60.0,16.66666667,50.0,Filtrado,499,LFQ,180.0,193.0
+23-2-24,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,514,LFQ,170.0,189.0
+23-2-24,01-220124,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,538,LFQ,180.0,193.0
+23-2-24,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+23-2-24,18-221223,Rioblanco,Caturra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,541,LFQ,170.0,190.0
+23-2-24,07-200224,Jerico,Dos mil,Lavado,Lavado,3.0,20.0,2.4,Filtrado,496,LFQ,175.0,191.0
+23-2-24,20-130224,Acevedo,Bourbon Sidra,Lavado,Lavado,10.0,18.0,8.2,Filtrado,469,LFQ,170.0,190.0
+23-2-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,489,LFQ,170.0,190.0
+29-2-24,01-220124,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,538,LFQ,180.0,193.0
+29-2-24,07-200224,Jerico,Dos mil,Lavado,Lavado,3.0,20.0,2.4,Filtrado,496,LFQ,175.0,191.0
+29-2-24,20-130224,Acevedo,Bourbon Sidra,Lavado,Lavado,4.0,15.0,3.4,Filtrado,469,LFQ,170.0,190.0
+29-2-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,15.0,20.0,12.0,Espresso,489,LFQ,170.0,190.0
+29-2-24,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,514,LFQ,170.0,189.0
+29-2-24,19-130224,Herrera,Gesha,Natural,Natural,4.0,15.0,3.4,Filtrado,469,LFQ,170.0,190.0
+2024-01-03 00:00:00,01-220124,Jerico,Dos mil,Tradicional,Lavado,66.0,16.66666667,55.0,Filtrado,538,LFQ,180.0,193.0
+2024-01-03 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,3.0,16.66666667,2.5,Espresso,514,LFQ,170.0,189.0
+2024-08-03 00:00:00,01-220124,Jerico,Dos mil,Tradicional,Lavado,40.0,15.0,34.0,Filtrado,538,LFQ,180.0,193.0
+2024-11-03 00:00:00,20-130224,Acevedo,Bourbon Sidra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+2024-11-03 00:00:00,19-130224,Herrera,Gesha,Natural,Natural,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+2024-11-03 00:00:00,18-221223,Rioblanco,Caturra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,541,LFQ,170.0,190.0
+22-3-24,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+22-3-24,01-220124,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,538,LFQ,180.0,193.0
+22-3-24,20-130224,Acevedo,Bourbon Sidra,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,469,LFQ,170.0,190.0
+22-3-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,6.0,16.66666667,5.0,Espresso,489,LFQ,170.0,190.0
+22-3-24,15-080923,Aipe,Maragogipe,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,514,LFQ,170.0,189.0
+22-3-24,19-130224,Herrera,Gesha,Natural,Natural,6.0,16.66666667,5.0,Filtrado,469,LFQ,170.0,190.0
+22-3-24,18-221223,Rioblanco,Caturra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,541,LFQ,170.0,190.0
+22-3-24,07-200224,Jerico,Dos mil,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,496,LFQ,175.0,191.0
+2024-03-04 00:00:00,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,6.0,16.66666667,5.0,Espresso,489,LFQ,170.0,190.0
+2024-03-04 00:00:00,01-220124,Jerico,Dos mil,Tradicional,Lavado,48.0,16.66666667,40.0,Filtrado,538,LFQ,180.0,193.0
+2024-12-04 00:00:00,15-080923,Aipe,Maragogipe,Lavado,Lavado,2.0,15.0,1.7,Filtrado,514,LFQ,170.0,189.0
+2024-12-04 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,66.0,16.66666667,55.0,Filtrado,538,LFQ,180.0,193.0
+15-4-24,20-130224,Acevedo,Bourbon Sidra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+15-4-24,19-130224,Herrera,Gesha,Natural,Natural,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+17-4-24,21-130224,Planadas,Red Bourbon,Honey,Honey,3.0,16.66666667,2.5,Filtrado,483,LFQ,175.0,191.0
+17-4-24,18-221223,Rioblanco,Caturra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,541,LFQ,170.0,190.0
+17-4-24,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+17-4-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,538,LFQ,180.0,193.0
+17-4-24,05-070424,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,496,LFQ,175.0,191.0
+17-4-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,489,LFQ,170.0,190.0
+22-4-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,96.0,16.66666667,80.0,Filtrado,538,LFQ,180.0,193.0
+22-4-24,02-220124,Jerico,Dos mil,Natural,Natural,42.0,16.66666667,35.0,Filtrado,494,LFQ,175.0,191.0
+22-4-24,20-130224,Acevedo,Bourbon Sidra,Lavado,Lavado,3.6,16.66666667,3.0,Filtrado,469,LFQ,170.0,190.0
+22-4-24,19-130224,Herrera,Gesha,Natural,Natural,3.0,16.66666667,2.5,Filtrado,469,LFQ,170.0,190.0
+22-4-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,12.0,16.66666667,10.0,Filtrado,489,LFQ,170.0,190.0
+22-4-24,18-221223,Rioblanco,Caturra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,541,LFQ,170.0,190.0
+2024-03-05 00:00:00,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,3.0,20.0,2.4,Filtrado,489,LFQ,170.0,190.0
+2024-03-05 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,9.0,16.66666667,7.5,Filtrado,538,LFQ,180.0,193.0
+2024-03-05 00:00:00,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+2024-06-05 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,192.0,16.66666667,160.0,Filtrado,538,LFQ,180.0,193.0
+2024-06-05 00:00:00,02-220124,Jerico,Dos mil,Natural,Natural,15.0,20.0,12.0,Filtrado,494,LFQ,175.0,191.0
+2024-06-05 00:00:00,21-130224,Planadas,Red Bourbon,Honey,Honey,3.0,16.66666667,2.5,Filtrado,483,LFQ,175.0,191.0
+17-5-24,05-070424,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,496,LFQ,175.0,191.0
+17-5-24,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,494,LFQ,175.0,191.0
+17-5-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,66.0,16.66666667,55.0,Filtrado,538,LFQ,180.0,193.0
+17-5-24,20-140524,Acevedo,Bourbon Sidra,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,469,LFQ,170.0,190.0
+17-5-24,19-130224,Herrera,Gesha,Natural,Natural,3.0,16.66666667,2.5,Filtrado,469,LFQ,170.0,190.0
+17-5-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,6.0,16.66666667,5.0,Filtrado,489,LFQ,170.0,190.0
+17-5-24,18-221223,Rioblanco,Caturra,Lavado,Lavado,1.24,19.35483871,1.0,Filtrado,541,LFQ,170.0,190.0
+17-5-24,21-130224,Planadas,Red Bourbon,Honey,Honey,1.24,19.35483871,1.0,Filtrado,483,LFQ,175.0,191.0
+21-5-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,51.0,16.66666667,42.5,Filtrado,538,LFQ,180.0,193.0
+21-5-24,21-130224,Planadas,Red Bourbon,Honey,Honey,6.0,16.66666667,5.0,Filtrado,483,LFQ,175.0,191.0
+21-5-24,05-070424,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,496,LFQ,175.0,191.0
+21-5-24,20-140524,Acevedo,Bourbon Sidra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+21-5-24,19-130224,Herrera,Gesha,Natural,Natural,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+29-5-24,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,494,LFQ,175.0,191.0
+29-5-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,538,LFQ,180.0,193.0
+29-5-24,21-130224,Planadas,Red Bourbon,Honey,Honey,9.0,16.66666667,7.5,Filtrado,483,LFQ,175.0,191.0
+29-5-24,05-070424,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,496,LFQ,175.0,191.0
+29-5-24,20-140524,Acevedo,Bourbon Sidra,Lavado,Lavado,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+29-5-24,19-130224,Herrera,Gesha,Natural,Natural,3.0,20.0,2.4,Filtrado,469,LFQ,170.0,190.0
+29-5-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,12.0,16.66666667,10.0,Filtrado,489,LFQ,170.0,190.0
+2024-05-06 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,57.0,16.66666667,47.5,Filtrado,538,LFQ,180.0,193.0
+2024-12-06 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,156.0,16.66666667,130.0,Filtrado,538,LFQ,180.0,193.0
+2024-12-06 00:00:00,21-130224,Planadas,Red Bourbon,Honey,Honey,9.0,16.66666667,7.5,Filtrado,489,LFQ,170.0,190.0
+2024-12-06 00:00:00,05-070424,Jerico,Dos mil,Tradicional,Lavado,12.0,16.66666667,10.0,Filtrado,541,LFQ,170.0,190.0
+2024-12-06 00:00:00,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,483,LFQ,175.0,191.0
+18-6-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,102.0,16.66666667,85.0,Filtrado,538,LFQ,180.0,193.0
+18-6-24,21-130224,Planadas,Red Bourbon,Honey,Honey,3.0,16.66666667,2.5,Filtrado,489,LFQ,170.0,190.0
+18-6-24,05-070424,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,541,LFQ,170.0,190.0
+18-6-24,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,483,LFQ,175.0,191.0
+18-6-24,06-201023,Chaparral,Pink Bourbon,Lavado,Lavado,12.0,16.66666667,10.0,Filtrado,489,LFQ,170.0,190.0
+18-6-24,22-170624,Salento,Caturron,Natural,Natural,1.2,16.66666667,1.0,Filtrado,481,LFQ,175.0,189.0
+20-6-24,20-140524,Acevedo,Bourbon Sidra,Lavado,Lavado,3.8,21.05263158,3.0,Filtrado,469,LFQ,170.0,190.0
+20-6-24,22-170624,Salento,Caturron,Natural,Natural,2.0,15.0,1.7,Filtrado,481,LFQ,175.0,189.0
+20-6-24,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,483,LFQ,175.0,191.0
+20-6-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,538,LFQ,180.0,193.0
+2024-04-07 00:00:00,01-030724,Jerico,Dos mil,Tradicional,Lavado,66.0,16.66666667,55.0,Filtrado,538,LFQ,180.0,193.0
+2024-04-07 00:00:00,20-140524,Acevedo,Bourbon Sidra,Lavado,Lavado,8.0,18.75,6.5,Filtrado,469,LFQ,170.0,190.0
+2024-04-07 00:00:00,22-170624,Salento,Caturron,Natural,Natural,5.1,17.64705882,4.2,Filtrado,481,LFQ,175.0,189.0
+2024-04-07 00:00:00,21-130224,Planadas,Red Bourbon,Honey,Honey,6.0,16.66666667,5.0,Filtrado,489,LFQ,170.0,190.0
+15-7-24,23-150724,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,501,LFQ,175.0,191.0
+15-7-24,20-140524,Acevedo,Bourbon Sidra,Lavado,Lavado,3.0,16.66666667,2.5,Filtrado,469,LFQ,170.0,190.0
+15-7-24,22-170624,Salento,Caturron,Natural,Natural,3.0,16.66666667,2.5,Filtrado,481,LFQ,175.0,189.0
+15-7-24,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,483,LFQ,175.0,191.0
+15-7-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,36.0,16.66666667,30.0,Filtrado,538,LFQ,180.0,193.0
+15-7-24,08-140524,Jerico,Gesha,Honey,Honey,2.0,15.0,1.7,Filtrado,490,LFQ,175.0,191.0
+15-7-24,21-130224,Planadas,Red Bourbon,Honey,Honey,3.0,16.66666667,2.5,Filtrado,489,LFQ,170.0,190.0
+24-7-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,42.0,16.66666667,35.0,Filtrado,538,LFQ,180.0,193.0
+25-7-24,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,483,LFQ,175.0,191.0
+25-7-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,538,LFQ,180.0,193.0
+25-7-24,08-140524,Jerico,Gesha,Honey,Honey,2.0,15.0,1.7,Filtrado,490,LFQ,175.0,191.0
+29-7-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,30.0,16.66666667,25.0,Filtrado,538,LFQ,180.0,193.0
+29-7-24,08-140524,Jerico,Gesha,Honey,Honey,1.6,15.0,1.36,Filtrado,490,LFQ,175.0,191.0
+31-7-24,17-270724,Quimbaya,Red Bourbon,Tradicional,Lavado,3.2,15.625,2.7,Filtrado,481,LFQ,170.0,189.0
+2024-01-08 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,70.0,14.28571429,60.0,Filtrado,538,LFQ,180.0,193.0
+2024-01-08 00:00:00,08-140524,Jerico,Gesha,Honey,Honey,3.0,16.66666667,2.5,Filtrado,490,LFQ,175.0,191.0
+2024-01-08 00:00:00,17-270724,Quimbaya,Red Bourbon,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,481,LFQ,170.0,189.0
+2024-01-08 00:00:00,02-220124,Jerico,Dos mil,Natural,Natural,3.0,16.66666667,2.5,Filtrado,483,LFQ,175.0,191.0
+2024-06-08 00:00:00,17-270724,Quimbaya,Red Bourbon,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,481,LFQ,170.0,189.0
+2024-06-08 00:00:00,01-120424,Jerico,Dos mil,Tradicional,Lavado,6.0,16.66666667,5.0,Filtrado,538,LFQ,180.0,193.0
+2024-06-08 00:00:00,08-140524,Jerico,Gesha,Honey,Honey,3.0,16.66666667,2.5,Filtrado,490,LFQ,175.0,191.0
+2024-06-08 00:00:00,22-170624,Salento,Caturron,Natural,Natural,3.0,16.66666667,2.5,Filtrado,481,LFQ,175.0,189.0
+2024-06-08 00:00:00,21-130224,Planadas,Red Bourbon,Honey,Honey,3.0,16.66666667,2.5,Filtrado,489,LFQ,170.0,190.0
+2024-06-08 00:00:00,23-150724,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,501,LFQ,175.0,191.0
+13-8-24,02-220124,Jerico,Dos mil,Natural,Natural,6.0,16.66666667,5.0,Filtrado,483,LFQ,175.0,191.0
+13-8-24,17-270724,Quimbaya,Red Bourbon,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,481,LFQ,170.0,189.0
+13-8-24,01-120424,Jerico,Dos mil,Tradicional,Lavado,54.0,16.66666667,45.0,Filtrado,538,LFQ,180.0,193.0
+13-8-24,08-140524,Jerico,Gesha,Honey,Honey,3.0,16.66666667,2.5,Filtrado,490,LFQ,175.0,191.0
+13-8-24,22-170624,Salento,Caturron,Natural,Natural,3.0,16.66666667,2.5,Filtrado,481,LFQ,175.0,189.0
+13-8-24,21-130224,Planadas,Red Bourbon,Honey,Honey,3.0,16.66666667,2.5,Filtrado,489,LFQ,170.0,190.0
+13-8-24,23-150724,Jerico,Dos mil,Tradicional,Lavado,3.0,16.66666667,2.5,Filtrado,501,LFQ,175.0,191.0
