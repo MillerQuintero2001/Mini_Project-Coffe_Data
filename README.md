@@ -45,3 +45,9 @@ pip install -r requirements.txt
     * `CC_FT_18.py`: Preprocesa el XLSX de FT 18.
     * `CC_FT_21.py`: Preprocesa el XLSX de FT 21.
     * `process_and_models`: Procesa detalles finales de los archivos generados por los anteriores scripts, y genera las pipelines con los modelos y reportes.
+
+### 🔗 Links a Notebooks paso a paso
+- [Preprocesamiento y Limpieza - FT 17](https://drive.google.com/file/d/1zGWDIhIDT-R3acWtbH9dx16hAATfzrmO/view?usp=sharing)
+- [Preprocesamiento y Limpieza - FT 18](https://drive.google.com/file/d/1aW6vdOoIvfb-vLjflq8pwNttPspfOyT7/view?usp=sharing)
+- [Preprocesamiento y Limpieza - FT 21](https://drive.google.com/file/d/1gx6i0epoLOG8Ljcc6ZArWBLjB7-2x2wM/view?usp=sharing)
+- [Procesamiento y Modelos](https://drive.google.com/file/d/1yLzeTLkl3Lb-73hmmC9qT82wgqASj7_h/view?usp=sharing)
