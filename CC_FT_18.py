@@ -221,7 +221,8 @@ df = pd.concat([df_sheet_1, df_sheet_2], ignore_index=True)
 
 # Reemplazamos las columnas por su versión en mayúsculas
 df.columns = df.columns.str.upper()
-
+df.loc[df['TEMP. FINAL'].isnull(), 'TEMP. INICIO'] = 175.0
+df.loc[df['TEMP. FINAL'].isnull(), 'TEMP. FINAL'] = 192.0
 
 # Veamos los valores únicos de la columna 'BENEFICIO' Y 'PROCESO'
 print(df['BENEFICIO'].unique())
